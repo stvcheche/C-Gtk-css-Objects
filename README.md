@@ -33,5 +33,5 @@ Csstylez *usrlogstylez = createstyles();<br>
 	usrlogstylez->backgroundColor(&loginbtn, "#cccccc");<br>
 	usrlogstylez->boxShadow(&loginbtn, "inset 0px 0px 2px 2px rgba(0, 0, 0,0.1)");<br>
   
-  **Destry object**<br>
+  **Destroy object**<br>
   destroystylez(usrlogstylez);<br>
